@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F7KOjeYt/3aq3IvUmhrRz7NemJ6Qoxac07MySr9ysZCb2vAxA2rgxKnn7t8MNXmk+mdaYfrJAARj5rYwTVtENg==",
+  "dgSpecHash": "7krzpEy5Gl2WLJDNR77egPXxq8QESspipZ3ALEW68Lh0TbP1YBJD3enzgLUcJ3VX+hoiGnMw6dDT1LqMIZYKmQ==",
   "success": false,
-  "projectFilePath": "D:\\Azure\\Existing project code\\run-devops-main\\Shopping\\Shopping.Client\\Shopping.Client.csproj",
+  "projectFilePath": "D:\\Azure\\MYGITHUBPROJECT\\Myproject\\Shopping\\Shopping.Client.csproj",
   "expectedPackageFiles": [],
   "logs": [
     {

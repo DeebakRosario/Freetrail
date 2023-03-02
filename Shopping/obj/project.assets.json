@@ -16,11 +16,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Azure\\Existing project code\\run-devops-main\\Shopping\\Shopping.Client\\Shopping.Client.csproj",
+      "projectUniqueName": "D:\\Azure\\MYGITHUBPROJECT\\Myproject\\Shopping\\Shopping.Client.csproj",
       "projectName": "Shopping.Client",
-      "projectPath": "D:\\Azure\\Existing project code\\run-devops-main\\Shopping\\Shopping.Client\\Shopping.Client.csproj",
+      "projectPath": "D:\\Azure\\MYGITHUBPROJECT\\Myproject\\Shopping\\Shopping.Client.csproj",
       "packagesPath": "C:\\Users\\deeba\\.nuget\\packages\\",
-      "outputPath": "D:\\Azure\\Existing project code\\run-devops-main\\Shopping\\Shopping.Client\\obj\\",
+      "outputPath": "D:\\Azure\\MYGITHUBPROJECT\\Myproject\\Shopping\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\deeba\\AppData\\Roaming\\NuGet\\NuGet.Config",
